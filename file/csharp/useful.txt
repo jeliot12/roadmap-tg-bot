@@ -1,0 +1,4 @@
+Полезные сайты для изучение с#
+
+https://dzen.ru/a/YpdOdMZA3F8H8RVK
+https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap

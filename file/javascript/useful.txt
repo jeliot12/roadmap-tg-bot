@@ -1,0 +1,5 @@
+Полезные сайты для изучение JavaScript
+
+https://learn.javascript.ru/
+https://learnjavascript.online/
+https://developer.mozilla.org/ru/docs/Learn/JavaScript
